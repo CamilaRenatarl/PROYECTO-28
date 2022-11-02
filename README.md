@@ -1,2 +1,3 @@
-# PROYECTO-28
-PRIMERA ETAPA DE TIRO CON ARCO EPICO 
+# Plantilla C28
+
+Plantilla C28
